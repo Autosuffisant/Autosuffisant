@@ -9,12 +9,12 @@
 
 ---
 
-### Some personal sastistics:
+### Some personal sastistics 📈
 
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=Autosuffisant&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
 [![My best languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Autosuffisant&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### My skills:
+### My skills 🎯
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,6 +29,6 @@
 
 ---
 
-### Get in touch with me:
+### Get in touch with me 📧
 
 [<img align="left" alt="Terminal" width="26px" src="https://github.com/Autosuffisant/Autosuffisant/blob/master/assets/linkedin-logo.png?raw=true" />](https://www.linkedin.com/in/gabriel-huguenin-dumittan/)[Linkedin](https://www.linkedin.com/in/gabriel-huguenin-dumittan/)
