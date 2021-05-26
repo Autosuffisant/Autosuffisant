@@ -3,7 +3,7 @@
 ## I'm a student developer at [EPITECH](https://github.com/Epitech) 💻
 
 - 💿 I'm a music passionate and vinyl and CD collector, checkout my collection [here](https://www.discogs.com/fr/user/Autosuffisant/collection)!
-- 🥁 Former drum player but i still love it.
+- 🥁 Former drum player but i still love to play anytime i can.
 - 🚀 Passionate gamer, mostly a Rocket League player, as you can see [here](https://steamcommunity.com/id/Autosuffisant/).
 - ⚠️ Dear EPITECH students, you really shouldn't copy my work. But i still publish it anyway, anything you do is your responsibility.
 
