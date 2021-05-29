@@ -13,6 +13,8 @@
 
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=Autosuffisant&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
 [![My best languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Autosuffisant&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+_(Github stats powered by [@anuraghazra](https://github.com/anuraghazra))_
 
 ### My skills 🎯
 
