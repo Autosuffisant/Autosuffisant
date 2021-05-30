@@ -6,6 +6,7 @@
 - 🥁 Former drum player but i still love to play anytime i can.
 - 🚀 Passionate gamer, mostly a Rocket League player, as you can see [here](https://steamcommunity.com/id/Autosuffisant/).
 - ⚠️ Dear EPITECH students, you really shouldn't copy my work. But i still publish it anyway, anything you do is your responsibility.
+- 💬 Submit any feedback or just ask me anything [here](https://github.com/Autosuffisant/Autosuffisant/issues).
 
 ---
 
