@@ -12,7 +12,7 @@
 
 ### Some personal sastistics 📈
 
-![Profile views](https://gpvc.arturio.dev/Autosuffisant)
+![](https://komarev.com/ghpvc/?username=Autosuffisant&color=green)
 
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=Autosuffisant&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
 [![My best languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Autosuffisant&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
