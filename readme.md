@@ -42,4 +42,4 @@ _(Github stats powered by [@anuraghazra](https://github.com/anuraghazra))_
 [<img align="left" alt="Linkedin" width="26px" src="https://github.com/Autosuffisant/Autosuffisant/blob/master/assets/linkedin-logo.png?raw=true" />](https://www.linkedin.com/in/gabriel-huguenin-dumittan/)[Linkedin](https://www.linkedin.com/in/gabriel-huguenin-dumittan/)
 
 
-[<img align="left" alt="Linkedin" width="26px" src="https://github.com/Autosuffisant/Autosuffisant.github.io/blob/78edc1d2b1a93592626d01daf16719a712a3b3b4/public/LogoPrism.png" />](https://huguenin.dev/)[My website](https://huguenin.dev/)
+[<img align="left" alt="Linkedin" width="26px" src="https://github.com/Autosuffisant/Autosuffisant/blob/ae3251a830f3716baf7feea8c22b40cebd612601/assets/LogoPrism.png" />](https://huguenin.dev/)[My website](https://huguenin.dev/)
