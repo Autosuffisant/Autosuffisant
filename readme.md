@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriel Huguenin-Dumittan - alias [Autosuffisant](https://github.com/Autosuffisant) or [Prism](https://github.com/Autosuffisant) 👋
 
-## I'm a student developer at [EPITECH](https://github.com/Epitech) 💻 and the [University of Kent](https://github.com/unikent)
+## I'm a student developer at [EPITECH](https://github.com/Epitech) 🇫🇷 and the [University of Kent](https://github.com/unikent) 🇬🇧
 
 - 💿 I'm a music passionate and vinyl and CD collector, checkout my collection [here](https://www.discogs.com/fr/user/Autosuffisant/collection)!
 - 🥁 Former drum player but i still love to play anytime i can.
