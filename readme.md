@@ -1,4 +1,4 @@
-### Hi, I'm Gabriel Huguenin-Dumittan - alias [Autosuffisant](https://github.com/Autosuffisant) or [Prism](https://github.com/Autosuffisant) 👋
+### Hi, I'm Gabriel Huguenin-Dumittan 👋
 
 ## Graduate of [EPITECH](https://github.com/Epitech) 🇫🇷 and the [University of Kent](https://github.com/unikent) 🇬🇧
 
